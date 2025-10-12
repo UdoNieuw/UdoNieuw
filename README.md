@@ -1,7 +1,7 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Udo 👋
 
 ### 💼 About Me
-I'm a passionate **[Your Role — e.g., Software Developer | IT Graduate | Cybersecurity Enthusiast]** with a focus on **[key interests — e.g., full-stack development, cybersecurity, automation, and open-source collaboration]**.  
+I'm a passionate Software Developer | IT Graduate | Cybersecurity Enthusiast with a focus on oop development and cybersecurity.  
 I love turning ideas into real-world solutions and continuously improving my technical and problem-solving skills.
 
 ---
