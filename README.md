@@ -8,7 +8,7 @@ I love turning ideas into real-world solutions and continuously improving my tec
 
 ### 🚀 Tech Stack
 **Languages:**  
-💻 Java · C# · JavaScript · HTML · CSS · Bash  
+💻 Java · C# · JavaScript · HTML · CSS   
 
 **Frameworks & Tools:**  
 ⚙️ Linux · VS Code  
