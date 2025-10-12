@@ -16,12 +16,6 @@ I love turning ideas into real-world solutions and continuously improving my tec
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=UdoNieuw&show_icons=true&theme=github_dark" />
 
 ---
-[![](https://visitcount.itsvg.in/api?id=UdoNieuw&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-</p>
-
----
 
 ### Currently Learning  
 - 🔒 Cybersecurity & networking
