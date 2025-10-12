@@ -6,21 +6,19 @@ I love turning ideas into real-world solutions and continuously improving my tec
 
 ---
 
-### Tech Stack
-**Languages:**  
-💻 Java · C# · JavaScript · HTML · CSS   
-
-**Frameworks & Tools:**  
-⚙️ Linux · VS Code  
-
-**Databases:**  
-🗃️ MySQL · SQL Server Management Studio   
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)  
 
 ---
 
 ### GitHub Stats
 <p align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=UdoNieuw&show_icons=true&theme=github_dark" />
+
+---
+[![](https://visitcount.itsvg.in/api?id=UdoNieuw&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 </p>
 
 ---
