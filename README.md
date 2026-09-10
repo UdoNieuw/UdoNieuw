@@ -21,14 +21,7 @@ I love turning ideas into real-world solutions and continuously improving my tec
 ### GitHub Stats
 
 <p align="center">
-  <img
-    height="160em"
-    src="https://github-readme-stats.vercel.app/api?username=UdoNieuw&show_icons=true&theme=github_dark"
-  />
-  <img
-    height="160em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=UdoNieuw&layout=compact&theme=github_dark"
-  />
+  <img src="https://github-stats-extended.vercel.app/api?username=UdoNieuw&theme=radical" />
 </p>
 
 ---
